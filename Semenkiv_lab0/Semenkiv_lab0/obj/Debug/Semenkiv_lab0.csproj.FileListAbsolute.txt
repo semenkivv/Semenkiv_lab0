@@ -1,0 +1,7 @@
+D:\Семенків\Сперыч\Semenkiv_lab0\Semenkiv_lab0\bin\Debug\Semenkiv_lab0.exe.config
+D:\Семенків\Сперыч\Semenkiv_lab0\Semenkiv_lab0\bin\Debug\Semenkiv_lab0.exe
+D:\Семенків\Сперыч\Semenkiv_lab0\Semenkiv_lab0\bin\Debug\Semenkiv_lab0.pdb
+D:\Семенків\Сперыч\Semenkiv_lab0\Semenkiv_lab0\obj\Debug\Semenkiv_lab0.csproj.AssemblyReference.cache
+D:\Семенків\Сперыч\Semenkiv_lab0\Semenkiv_lab0\obj\Debug\Semenkiv_lab0.csproj.CoreCompileInputs.cache
+D:\Семенків\Сперыч\Semenkiv_lab0\Semenkiv_lab0\obj\Debug\Semenkiv_lab0.exe
+D:\Семенків\Сперыч\Semenkiv_lab0\Semenkiv_lab0\obj\Debug\Semenkiv_lab0.pdb
